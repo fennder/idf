@@ -1,0 +1,7 @@
+{
+  "name": "FonoFlow - Gestão de Clínica Fonoaudiológica",
+  "description": "Sistema completo para gerenciamento de clínicas de fonoaudiologia, cobrindo desde o cadastro de pacientes até o fluxo financeiro e pós-atendimento.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
